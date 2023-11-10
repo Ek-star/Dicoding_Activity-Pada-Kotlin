@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         var btnKlik = findViewById<Button>(R.id.btn_klik)
         var tvHasil = findViewById<TextView>(R.id.tv_hasil)
 
-        // Tombol diklik - ambil hasil dari edTglLahir
+        // Tombol diklik - ambil hasil dari variable edTglLahir
         btnKlik.setOnClickListener {
             var input = edTglLahir.text.toString()
             val hasil = when (input.toInt()) {
