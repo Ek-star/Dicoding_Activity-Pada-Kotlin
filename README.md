@@ -1,4 +1,5 @@
-![image](https://github.com/Ek-star/Activity-Pada-Kotlin/assets/92238923/0f80a9d3-9baf-4d3a-a75e-018b85820b16))
+![image](https://github.com/Ek-star/Activity-Pada-Kotlin/assets/92238923/0f80a9d3-9baf-4d3a-a75e-018b85820b16)
+![image](https://drive.google.com/file/d/1nteapcK7A_Zl-JbmlwaWE7m8y0PGDQDf/view?usp=sharing)
 
 # Activity-Pada-Kotlin
 Activity  merupakan salah satu komponen penting Android yang berfungsi untuk menampilkan user interface ke layar pengguna. Ini seperti pada saat Anda melihat daftar percakapan pada aplikasi chat atau daftar email pada aplikasi Gmail di ponsel Android Anda.
